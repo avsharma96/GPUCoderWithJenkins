@@ -1,0 +1,12 @@
+# ninja log v5
+15	3471	6260332121912133	build/win64/rt_nonfinite.obj	2966a27d3ea758de
+28	3646	6260332122392125	build/win64/cpp_mexapi_version.obj	213278158596754f
+1	4498	6260332135042007	build/win64/mandelbrot_count_data.obj	5b1d20c6a6adb747
+33	4685	6260332136952022	build/win64/_coder_mandelbrot_count_mex.obj	9512942ef11f77d
+7	4703	6260332137142006	build/win64/mandelbrot_count_initialize.obj	7bbd5803a5adfc9e
+38	4739	6260332137491988	build/win64/mandelbrot_count.obj	d379414d31cbc3f2
+43	4741	6260332137491988	build/win64/_coder_mandelbrot_count_api.obj	7e3a71b4d3beb012
+18	4946	6260332139601985	build/win64/MWCudaDimUtility.obj	7ee758bfbfacc9d3
+23	4980	6260332139921983	build/win64/_coder_mandelbrot_count_info.obj	c73543643e8a9313
+11	4982	6260332139951975	build/win64/mandelbrot_count_terminate.obj	59ad0b36f30b4d19
+4984	6440	6260332153591838	mandelbrot_count_mex.mexw64	8341c2c88602d95c
